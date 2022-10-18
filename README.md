@@ -107,3 +107,4 @@ where such changes and/or additions to the Program originate from and are Distri
 “Source Code” means the form of a Program preferred for making modifications, including but not limited to software source code, documentation source, and configuration files.
 
 “Secondary License” means either the GNU General Public License, Version 2.0, or any later versions of that license, including any exceptions or additional permissions as identified by the initial Contributor.
+Hii
